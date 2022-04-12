@@ -1,2 +1,2 @@
 # WebPractice
-Educational web project 
+Educational ASP.Net Core Online Shopping project.
